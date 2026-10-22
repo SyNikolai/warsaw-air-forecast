@@ -1,0 +1,71 @@
+stations:
+- id: 530
+  code: MzWarAlNiepo
+  name: Warszawa, Al. Niepodległości
+  lat: 52.219298
+  lon: 21.004724
+  sensors:
+    no2: 3580
+    pm10: 3584
+    pm25: 3585
+- id: 538
+  code: MzWarTolstoj
+  name: Warszawa, ul. Tołstoja
+  lat: 52.285073
+  lon: 20.933018
+  sensors:
+    pm10: 3654
+    pm25: 18038
+- id: 550
+  code: MzWarWokalna
+  name: Warszawa, ul. Wokalna
+  lat: 52.160772
+  lon: 21.033819
+  sensors:
+    no2: 3725
+    pm10: 3730
+    pm25: 3731
+- id: 552
+  code: MzWarKondrat
+  name: Warszawa, ul. Kondratowicza
+  lat: 52.290864
+  lon: 21.042458
+  sensors:
+    no2: 3760
+    pm10: 3764
+    pm25: 14688
+- id: 10955
+  code: MzWarChrosci
+  name: Warszawa, ul. Chrościckiego
+  lat: 52.207742
+  lon: 20.906073
+  sensors:
+    pm10: 18200
+    pm25: 18201
+    no2: 20408
+- id: 10956
+  code: MzWarBajkowa
+  name: Warszawa, ul. Bajkowa
+  lat: 52.188474
+  lon: 21.176233
+  sensors:
+    pm25: 18198
+    pm10: 18199
+- id: 20487
+  code: MzWarGrochow
+  name: Warszawa, ul. Grochowska
+  lat: 52.245704
+  lon: 21.080427
+  sensors:
+    pm10: 32377
+    pm25: 32378
+    no2: 32381
+- id: 20488
+  code: MzWarSolidar
+  name: Warszawa, Al. Solidarności
+  lat: 52.243573
+  lon: 20.999214
+  sensors:
+    pm25: 32382
+    pm10: 32383
+    no2: 32384

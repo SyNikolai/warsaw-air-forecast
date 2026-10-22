@@ -29,6 +29,7 @@ dependencies = [
     { name = "httpx" },
     { name = "prometheus-client" },
     { name = "psycopg", extra = ["binary"] },
+    { name = "pyyaml" },
     { name = "structlog" },
     { name = "tenacity" },
 ]
@@ -46,6 +47,7 @@ requires-dist = [
     { name = "httpx", specifier = ">=0.28.1" },
     { name = "prometheus-client", specifier = ">=0.26.0" },
     { name = "psycopg", extras = ["binary"], specifier = ">=3.3.6" },
+    { name = "pyyaml", specifier = ">=6.0.3" },
     { name = "structlog", specifier = ">=26.1.0" },
     { name = "tenacity", specifier = ">=9.2.1" },
 ]
